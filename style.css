@@ -42,7 +42,7 @@ nav {
   padding: 14px 16px;
 }
 .nav-links a:hover:not(.active) {
-  background-color: red;
+  background-color: blanchedalmond;
 }
 .nav-links li a.active {
   background-color: red;
